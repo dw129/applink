@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.eno.cpptest",
+    "sha256_cert_fingerprints":
+    ["58:E3:E1:7F:15:7D:14:49:79:58:53:AE:E2:E3:85:53:DA:3D:A5:F1:97:A3:93:54:C5:B8:AC:E9:47:B1:C0:DE"]
+  }
+}]
